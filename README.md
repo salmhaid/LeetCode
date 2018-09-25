@@ -1,2 +1,3 @@
-# LeetCodeSolutions
+# LeetCode
+
 LeetCode solutions repository
